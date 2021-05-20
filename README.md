@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zenix</h1>
-<h3 align="center">I'm currently a highschooler that is learning to code</h3>
+<h1 align="center">Hi �, I'm Zenix</h1>
+<h3 align="center">I'm currently a kid that is learning to code</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
