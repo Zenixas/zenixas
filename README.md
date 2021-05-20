@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zenix</h1>
-<h3 align="center">I'm currently a kid that is learning to code</h3>
+<h3 align="center">I'm a kid that is currently learning to code and reverse engineer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
