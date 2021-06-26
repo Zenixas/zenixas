@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas)
 
 </p>
-<div size='20px'> Hi! My name is Zenix. i'm a kid that is trying to learn to code and reverse engineer
+<div size='20px'> Hi! My name is Zenix, i'm a kid that is trying to learn to code and reverse engineer
 </div>
 
 
