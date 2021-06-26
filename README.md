@@ -1,6 +1,5 @@
 <h1>Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas)
 
 </p>
 <div size='20px'> Hi! My name is Zenix, i'm a kid that is trying to learn to code and reverse engineer
@@ -17,6 +16,8 @@
 
 ![Metrics](https://metrics.lecoq.io/zenixas?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FKiev) <p>
 ![Zenix's Stats](https://github-readme-stats.vercel.app/api?username=Zenixas&count_private=true&hide=issues&show_icons=true&theme=dracula)
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas)
 
 
 
