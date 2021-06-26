@@ -14,9 +14,8 @@
 
 <h2> My GitHub Stats:  </h2>
 
+![Zenix's Stats](https://github-readme-stats.vercel.app/api?username=Zenixas&count_private=true&hide=issues&show_icons=true&theme=dracula) <p>
 ![Metrics](https://metrics.lecoq.io/zenixas?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FKiev) <p>
-![Zenix's Stats](https://github-readme-stats.vercel.app/api?username=Zenixas&count_private=true&hide=issues&show_icons=true&theme=dracula)
- 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas)
 
 
