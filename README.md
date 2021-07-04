@@ -1,22 +1,30 @@
-<h1>Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"> Hello world </h1>
 
-
-</p>
-<div size='20px'> Hi! My name is Zenix, i'm a kid that is trying to learn to code and reverse engineer
+<div align="center">
+<img width="498px" height = "245px" src="https://i.pinimg.com/originals/d1/0e/89/d10e89407f0a5e6974b22a07a963e85f.gif" alt="cover" />
 </div>
 
+<h3 align="center"> Hi! My name is Zenix, i'm a kid that is trying to learn to code</h3>
+  
+<h3 align="center"> I am from Lithuania</h3>
 
-<h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
-<p> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-plain-wordmark.svg" alt="Dot Net" width="60" height="60"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/> 
-</a>  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2019/2022" width="60" height="60"/> </a> </p>
+<h2 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<h2> My GitHub Stats:  </h2>
+<p align="center">
+  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=c&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=cpp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+  <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
+</p>
 
-![Zenix's Stats](https://github-readme-stats.vercel.app/api?username=Zenixas&count_private=true&hide=issues&show_icons=true&theme=dracula) <p>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas)
+<h3 align="center"> I’m currently learning Golang and SQL </h3>
 
+<h2 align="center"> My GitHub Stats:</h2>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zenixas&count_private=true&hide=issues&show_icons=true&theme=dark">
+</p>
 
-
-
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas">
+</p>
