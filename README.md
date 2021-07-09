@@ -17,7 +17,7 @@
   <a href= https://github.com/zenixas?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
 </p>
 
-<h3 align="center"> I’m currently learning Golang and SQL. </h3>
+<h3 align="center"> I’m currently learning c#, Golang and Git. </h3>
 
 <h2 align="center"> My GitHub Stats: </h2>
   
