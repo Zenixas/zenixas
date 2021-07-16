@@ -1,9 +1,5 @@
 <h1 align="center"> Hello world </h1>
 
-<div align="center">
-<img width="498px" height = "245px" src="https://i.pinimg.com/originals/d1/0e/89/d10e89407f0a5e6974b22a07a963e85f.gif" alt="cover" />
-</div>
-
 <h3 align="center"> Hi! My name is Zenix, I'm a kid that is trying to learn to code. </h3>
   
 <h3 align="center"> I am from Lithuania. </h3>
