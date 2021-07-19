@@ -22,5 +22,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenixas&layout=compact&theme=dark">
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas">
 </p>
